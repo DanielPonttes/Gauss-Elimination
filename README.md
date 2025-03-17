@@ -23,7 +23,7 @@ Este repositório contém implementações do algoritmo de Eliminação de Gauss
 
 `./gauss`
 
->**Saída Esperada**
+**Saída Esperada**
 O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x500 e 1000x1000.
 
 
@@ -42,7 +42,7 @@ O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x5
 
 `go run gauss.go`
 
->**Saída Esperada**
+**Saída Esperada**
 O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x500 e 1000x1000.
 
 
@@ -61,7 +61,7 @@ O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x5
 
 `cargo run`
 
->**Saída Esperada**
+**Saída Esperada**
 O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x500 e 1000x1000.
 
 ## Integrantes 
