@@ -10,7 +10,7 @@ Este repositório contém implementações do algoritmo de Eliminação de Gauss
 * Compilador GCC instalado.
 * Biblioteca padrão do C.
 
- **Passos**:
+**Passos**:
 1. Navegue até a pasta `c`:
 
 `cd c`
@@ -33,7 +33,7 @@ O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x5
 * Go instalado (versão 1.16 ou superior).
 
 
->**Passos**:
+**Passos**:
 1. Navegue até a pasta `go`:
 
 `cd go`
@@ -52,7 +52,7 @@ O programa exibirá o tempo de execução para matrizes de tamanhos 50x50, 500x5
 * Rust instalado `(usando rustup)`.
 
 
->**Passos**:
+**Passos**:
 1. Navegue até a pasta `rust`:
 
 `cd rust`
